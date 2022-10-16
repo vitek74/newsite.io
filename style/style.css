@@ -24,7 +24,7 @@
 #flex-container>div {
   background: #FFFFFF;
   border: 1px solid;
-  width: 50%;
+  width: 25%;
   margin: 0px;
   padding: 0px;
  
@@ -37,11 +37,20 @@ img {
 a {
   color: #A9A9A9;
   text-decoration: none;
-
-
 }
 
+p {
+  text-align: left;
+  margin-left: 10px;
+}
 
+h2 {
+  text-align: center;
+}
+
+h5 {
+  margin: 20px;
+}
 
 .home {
   text-align: left;
