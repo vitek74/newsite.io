@@ -39,6 +39,7 @@
   height: 200px;
   background-color: #000000;
   margin-bottom: 10px;
+  padding: 5px;
 }
 
 #flex-container {
