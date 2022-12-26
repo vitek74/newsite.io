@@ -4,6 +4,7 @@
 
 .content {
   background-color: #4682B4;
+  
 }
 
 
@@ -65,6 +66,7 @@ img {
 a {
   color: #A9A9A9;
   text-decoration: none;
+  
 }
 
 p {
@@ -104,6 +106,8 @@ h5 {
   border-bottom: 2px solid transparent;
 }
 
+
+
 .web:hover {
   color: #F54318;
   border-bottom: 1px solid #F54318;
@@ -113,4 +117,5 @@ h5 {
 .menu_a {
   text-decoration: none;
 }
+
 
